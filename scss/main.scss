@@ -251,7 +251,9 @@ footer{
     width: 100%;
     height: auto;
     color: white;
-    padding: 40px;
+    .tex-footer{
+        padding: 40px;
+    }
     h3{
         font-size: 30px;
         font-weight: 200;
