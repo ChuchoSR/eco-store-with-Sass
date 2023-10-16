@@ -73,6 +73,7 @@ article .impact-section button {
 }
 article .impact-section button:hover {
   transform: scale(1.1);
+  cursor: pointer;
 }
 article img {
   width: 25vw;
@@ -145,6 +146,7 @@ section .healthcare .product-card .product-image, section .furniture .product-ca
 }
 section .healthcare .product-card .product-image:hover, section .furniture .product-card .product-image:hover, section .about-us .product-card .product-image:hover {
   transform: scale(1.1);
+  cursor: pointer;
 }
 section .healthcare .product-card .product-image img, section .furniture .product-card .product-image img, section .about-us .product-card .product-image img {
   width: 12vw;
